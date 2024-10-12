@@ -1,7 +1,6 @@
 # Customer Insights Case Study
 
 ### Presented by: Altamash Khan  
-**Date:** 12/05/2024  
 
 ---
 
