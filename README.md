@@ -11,6 +11,7 @@ This project focuses on analyzing customer transaction data from 2009 to 2011 to
 ### Data Source
 
 The data consists of customer transactions over the years 2009 and 2010. It was prepared and transformed using Excel, SQL, and Power BI to ensure quality insights and analysis.
+Link for source-https://docs.google.com/spreadsheets/d/1r9Pm1iOfkbtTggYjhMRzvNi5QS83u-tS/edit?usp=sharing&ouid=114673480518759161831&rtpof=true&sd=true
 
 ### Key Insights
 
